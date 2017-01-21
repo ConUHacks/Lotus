@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1b984fc29e91bb15329db5182d922aeed38f82ed">
+        sha1="3280bbaa1640c899e1c9694d4192fa101f786ae3">
         <dex dex="/Users/archen/GitHub/Lotus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_df516085ad9401d0e1f0f24a5bfb41eeaf7f3c90/classes.dex" />
     </item>
     <item
@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="a12e2ed3f089ee7e2c588a9b5e0a42bc999eaa19">
+        sha1="08f72f4eec968762a3fd525e8ac9a421ee5ec4d5">
         <dex dex="/Users/archen/GitHub/Lotus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8afce9119bc435f3d57fbe6cc879bb8cbe568ddf/classes.dex" />
     </item>
     <item
