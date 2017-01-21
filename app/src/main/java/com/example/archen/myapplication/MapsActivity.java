@@ -26,6 +26,7 @@ import android.location.Address;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
+    private static final LatLng PERTH = new LatLng(-31.952854, 115.857342);
     private GoogleMap mMap;
     private Marker mPerth;
     private final static int my_location=101;
@@ -88,7 +89,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private void setUpMap(){
         mPerth = mMap.addMarker(new MarkerOptions()
                 .position(PERTH)
-                .title("Perth");
+                .title("Perth"));
         mPerth.setTag(0);
         mMap.addMarker(new MarkerOptions().position(new LatLng(0,0)).title("Marker"));
 //        &&ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION)!=PackageManager.PERMISSION_GRANTED
