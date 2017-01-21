@@ -16,7 +16,6 @@ import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
-import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
@@ -67,39 +66,35 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     }
 
-    public void onSearch(View view){
-        EditText location_tf = (EditText)findViewById(R.id.TFaddress);
-        String location = location_tf.getText().toString();
-        List<Address> addressList=null;
-        if(!location.equals("")){
-            Geocoder geocoder = new Geocoder(this);
-            try {
-                addressList=geocoder.getFromLocationName(location, 1);
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-
-            Address address = addressList.get(0);
-            LatLng latLng = new LatLng(address.getLatitude(), address.getLongitude());
-
-            mMap.addMarker(new MarkerOptions().position(latLng).title("Marker"));
-            mMap.animateCamera(CameraUpdateFactory.newLatLng(latLng));
-        }
-    }
+//    public void onSearch(View view){
+//        EditText location_tf = (EditText)findViewById(R.id.TFaddress);
+//        String location = location_tf.getText().toString();
+//        List<Address> addressList=null;
+//        if(!location.equals("")){
+//            Geocoder geocoder = new Geocoder(this);
+//            try {
+//                addressList=geocoder.getFromLocationName(location, 1);
+//            } catch (IOException e) {
+//                e.printStackTrace();
+//            }
+//
+//            Address address = addressList.get(0);
+//            LatLng latLng = new LatLng(address.getLatitude(), address.getLongitude());
+//
+//            mMap.addMarker(new MarkerOptions().position(latLng).title("Marker"));
+//            mMap.animateCamera(CameraUpdateFactory.newLatLng(latLng));
+//        }
+//    }
 
     private void setUpMap(){
         mPerth = mMap.addMarker(new MarkerOptions()
                 .position(PERTH)
-                .title("Perth")
-                .draggable(true)
-                .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE)));
+                .title("Perth"));
         mPerth.setTag(0);
-        mPerth.setTitle("Ice cream");
-        mPerth.showInfoWindow();
-
         mMap.addMarker(new MarkerOptions().position(new LatLng(0,0)).title("Marker"));
 //        &&ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION)!=PackageManager.PERMISSION_GRANTED
         if(ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED){
+
             mMap.setMyLocationEnabled(true);
         }else{
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
