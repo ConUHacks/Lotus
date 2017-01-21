@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/archen/GitHub/Lotus/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/archen/GitHub/Lotus/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

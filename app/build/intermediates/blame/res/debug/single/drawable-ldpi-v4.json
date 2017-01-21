@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/archen/GitHub/Lotus/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/archen/GitHub/Lotus/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/archen/GitHub/Lotus/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/archen/GitHub/Lotus/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/archen/AndroidStudioProjects/MyApplication2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

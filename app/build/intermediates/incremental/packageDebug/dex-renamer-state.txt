@@ -1,0 +1,7 @@
+#Sat Jan 21 14:53:43 EST 2017
+base.0=/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fd4421de0a5925904a0bd9111092f85ab57508f4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39116da4380bf88151159c5ea5adab85ee7f2450/classes.dex
+base.1=/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39116da4380bf88151159c5ea5adab85ee7f2450
+file.0=/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fd4421de0a5925904a0bd9111092f85ab57508f4/classes.dex

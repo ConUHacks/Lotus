@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/archen/AndroidStudioProjects/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/archen/GitHub/Lotus/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/archen/GitHub/Lotus/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.0/res/raw/gtm_analytics"
+    }
+]
