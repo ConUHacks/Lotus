@@ -2,580 +2,562 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.0_b01b033191842f1c4b329cdff96debb90465a799\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.0_1052b844075344f25c518461adf1b5fd7728b6a1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.0_bec7a2fe01bf5d21f39b01af8f09be1b906ffe7b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.0_3c7b8bdc0668fec4055456fad5040bd19d39ad52\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_6f5005b64d2246f3a9de0085922f3530f9f9b685\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f134c9d0b69456aa0c8b43a43bf4abe8376824b8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a723c85825d9591baec200523c10662e30c8bed7">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.0_78490783da9cd299465256e33f5b51b5cfcc94bc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.0_b6ef9e77e6157ffb1b3cdaf63fe41f7fdc3ff40b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="415336382149f2a79eb80599e340e188f6724d6d">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.0_5a926562c74107a2502754c360872a012fd52296\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_04db9d648a16358628c1f1cc42cbea39262f3760\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.0_06be73ef7167b2c9a7ae3ab18e5f0a42c3c897d6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_dca165cf5c9487ee06fd8dec1e8c4416dbcb3b0a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.0_b2cd78a6b371c390704b2440ebd0df56d32a98de\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.0_ca7aaa25a043ad57fb6dabed949d9c5a85bf2f29\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.0_e377c878040be591b498dd8523dba51f9cb3aaca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.0_284003c9685c2cb9e4e6d90b6f6df957f861ade3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d39f676be8400123523882d189a1d84040d34339">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.0_1b7858d42c29cd526f2389aba175e1821c00e894\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="5243af50631020511cf2403789678149b1a319e6">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.0_3bb425b04be9b1bf47cbd2ec5bcd0b25daf8d6f9\classes.dex" />
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.0_b67ba39fde88a7d5f323df9157e080a3328b1b7d.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.0_a6c891ec0581f787614d5110a4559e6e172d8f5d\classes.dex" />
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.6.0_a0b47526369fe77b0e94b6187f4b1d3347197f11.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_87a04e5156809481fbc271b5d6b617ef46eab296\classes.dex" />
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.6.0_9319211a6b56e02ec2a0575caaa831498cda9de3.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.0_aa36822683fb1912a740cf76b5755f5803eae618\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.0_6a79d10db044b08624fb9649534fa78c98742af0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.0_afed2b2059941110c0838c6f227ca59341e68b0f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_f408e1819a4b1e38e89c01ef1ac50f3d52f11435\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.0_41bb169b8904b0254dc20f22f9a4f2930b84bf85\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.0_1dbf377d4ba6a90ec72087636a4acf8fde9d8d9e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.0_759a6e8bf3f44c22575ae4746718252de3b71055\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_fd2af22f1b62789e6f965c79af4284ce346a30c2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.0_4822ba64925ac6a0a1a4c29b940cd196438dd7d5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="bf803332f826adea247cc452d0bb04d7943f0007">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.0_f0bfb4612d4780293c2b58469c67b6881a9f2da6\classes.dex" />
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.6.0_fc973b1f094890a1cc9069f1d9e779376b97045c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.0_90e12427ad8c1baa6abb1639a84e43570cd2da8b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_0ecff46474ef92955f973b2ee16162fa51c5ddae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.0_c8eaf70f670549da416e5087060d9aa728cff9da\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.0_c891e603237aa50ed6c6e2b3e3a0cee217a0e702\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.0_6121f263c9922f985a56dd17e4681422ece48ca4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_a23f47f4b412263eb5ae3e1675a315a510e0c5b9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_e129a7c0b1e4528a402ee148c702d447a085f5ed\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.0_3d0303dbcfe33d577d8852ebc8fc47a5f7b65a14\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.0_5a3f6347c885c59223fa07fe0ec559d44954de11\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6e19ea8dbf2a9566b1c9741fc120687a707ed6bb">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_87a7774399a65cd30dc288024cbf433a8efcfaa7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.0_b31c8bf569330d18e3aa43520ffe58449411fdc7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.0_7787933e77fe8638be7ad0439e3b82d594c400db\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.0_2b474aa101ffe6f0f059a52716ebbcef544301b1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_2c1e877f010644b7bd593652c261db27ffc07fe8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.0_3967cc8fdfb8992b10e8d5b54043d942cb226731\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.0_f01078b6d8d48dca2e563d565777011b2db1da2c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.0_a8f2bb012321455cf0f1bc58366e1b31ab506883\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.0_7119a943ae94b46ff5c74ac215a5d784d75fc88b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_5fd6fe9d1745a7348957788fe9ba34e952ed6e45\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.0_97bbbbe9392f07a8ceed37e5d4355b9ce4f31cca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3d7fc655bff3712b2a4c13b0af5fc6700d9a693d">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b333591c3ad8046daf985780116844970705ab4e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.0_263591016727d0ee4aa52eb1c10e1d0f5bc5677c\classes.dex" />
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.6.0_4bc2753b0e34cc4b9f0b359086c52260245286fd.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_8e172de10f6d5de5fe8896771608be1d2bcdd573\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.0_1c4909c0adcc2e3a880aecef88e95e07a8c5983d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.0_e7c94444a7e43f32dfa11de47788a3bf312d12b8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.0_5523016cbc21940edad494d942ee9a9489e0bc3c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.0_d155584e96be0d4566514918869796537f34e2d1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.0_3f29a3bf5edca2fc25dc52f8bfc3c0c9c3ea5227\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.0_e0bab750028ef9fa04627576ea56202140c47b11\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="938ba83fbb26987368049237e47718d56e91e222">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.0_0ab8027ff8b8156e6abc590e8408fcc0c93bf0bf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.0_a0b49a05e918a52496c0461a6a2409ea695bfc28\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.0_45ae5c11feec26ed25b41e99f78f4a9b7c9c1403\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.0_05da53e3bacf452a30263411561c8e37fe45bad1\classes.dex" />
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-9.6.0_455a4b17931dd7d9e2a49b482a66f0b34ead3e9a.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.0_e3c9ca3084ae6c8db0b8abf0c5f6d4b5e2ab5055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.6.0_524c535f5e3130602deafcf60121a5e8e5bac1aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.6.0_1fbc1bc2d1b26ab1677be432468e62920d11a6a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.6.0_3bae5d9e5752ae77000e6f27cb6a434766142e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_0bd4574c7f0f689ca50fb3f5d51e22d888fc5508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.6.0_098185779a73a6b57a6dcfc1c5dc30ee5a15b104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.6.0_eea89a665d7a79c8eb633ff6f80eef549f2dd26b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.6.0_a9b633098fca14980c2a0e15d49753202262eb6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_0f40f00da18ab92dd0e2c0203678638cdc8689f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.0_30d8c83a7b96ed88fd79543f270f5471c50f7d3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.6.0_29f7280ab1c494710ce7290b1b8ef49d7a1005f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.6.0_ef58e793ac7f6905d07089db97e23a413d890b21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.0_6053b669b1d081519ec5811b7d88cd441fc69fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.6.0_cfb9b77db87b35063437e3d6936c89cffa5adc16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_d6ef086e91016124ee2a04c51e2547e6a35921aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.6.0_4347f5028a0c8edb93ca50d596085a3dcdbe98f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.6.0_313708efc24a38124ca570c5a0cdc1fa80c1043f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.0_26c77d450ddf588225e48e4c9081989e8481427e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_d7d349bd90fed569b21522393018c1a67882e4cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-9.6.0_0724840e5e91667c169ea56ac87f637630520ea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
-        <dex dex="C:\Users\saifr\Documents\GitHub\Lotus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.0_f531f318200f5a9efbe99154e1178cbd2621fc17\classes.dex" />
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.6.0_d501ce3ae153cfad8282c77753d8e3798f80eab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.6.0_c2de13609b64a50262370c2e2c493a517aa93f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.6.0_44a16a51cd937e7823d89b0894ef3be8d09f5fae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.6.0_a3baa4a7da01a7f066a32e2888a55ff1cc85df0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_9fd79a72af3625919f357ce43f96eb5e00c6efc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.6.0_2a711526a27a61cd7c7769f642f363b0d3c4da94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.6.0_49f0d69622670e9b3e9afd0a8410bee766cf3939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.6.0_3fcddd406da45f403aa7204a1ba581edda2324c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_4b53d11332980a1548f69d9bb61b49b01672fa65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.6.0_8652a81444458d09c1a867aa00cc66d99a3d320a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_417db954e813986eedd11e8cb7a54c09669a1f4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.0_28875cc5f3f6e7ab6b57f9b1c245032b28a86b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.6.0_84d36cda67d05af712da4159eab23730198925a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_c41ebf8397340fb36bfab8db03a4049384d114f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_b79dc76bc394cda04f15ba73183b9788ecfaaba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.6.0_5b6303ab9b9d94dac6c75d77281b1612ade0b601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.0_7b45bbdbfe1abde41b10ff2c482a05a79a36e23e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_3cab58467afce4b1779b76686a8169612f01a957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.6.0_3d41b51e557d158d42f1846a6a13b026ab151ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.6.0_fbf7f90e4495e6742f12f43891d0ade623ab0e8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_d550616a1a015658fd54e2823ab47068abe54539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.6.0_5c0bc2caccfb877bf507cc37e5d0082c2abd1fe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.6.0_2810eda853a7518a840ec50a93822b4dd0d34faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.6.0_122d717cfa263f45631e6f3c428c230d3f864f11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.6.0_9099c64a309bed2970972d07b783d9fdfb2e8d5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.0_5d1fe2a11668868c33c5216ddee58b7092aaa6a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_f6877eba9732486c06aa2bca8cfecfdfddbd5cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.6.0_ce1c473ce5be1fc3cf4cee1dd6e7102e87204f51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.6.0_b98222b9e7bd67bf72b706061d63c6ee77f08bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_d26f3985080047d7aec00fb86cf5905b9b3f1943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.6.0_8f248b1c8981edc1d2485afa910b6519fd4a8433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.6.0_992825009919209c341e8e4e267924c6fb078058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.0_28e6db7134b170421cf00e026612cd3088a714fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.0_3f8553b39b1e0a794c17ee4abb6b8f0f10eeb576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.0_f8f43bcf8d9805d37d2d3616f7a7cdc94a010799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="C:\Users\a-jam\Desktop\Lotus\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.0_8f959aa4f95d64953119fbb7a30c2e886c14c127.jar" />
     </item>
 
 </items>
