@@ -31,14 +31,8 @@
         <activity
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps">
-
-            <!-- <intent-filter> -->
-            <!-- <action android:name="android.intent.action.MAIN" /> -->
-
-
-            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-            <!-- </intent-filter> -->
         </activity>
+
         <activity android:name=".StartActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -46,8 +40,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity android:name=".InstructionActivity" />
-        <activity android:name=".addActivity"></activity>
+        <activity android:name=".addActivity"/>
+        <activity android:name=".ViewListContents"/>
     </application>
 
 </manifest>

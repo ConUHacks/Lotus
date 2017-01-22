@@ -8,9 +8,9 @@
         android:layout_width="match_parent"
         android:layout_height="53dp"
         android:inputType="textPersonName"
-        android:text="Name"
         android:ems="10"
-        android:id="@+id/TFaddress" />
+        android:id="@+id/TFaddress"
+        android:hint="Address" />
 
     <Button
         android:text="Search"
@@ -18,6 +18,18 @@
         android:layout_height="wrap_content"
         android:id="@+id/Bsearch"
         android:onClick="onSearch" />
+
+    <Button
+        android:text="View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnView" />
+
+    <Button
+        android:text="Add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnAdd" />
 
     <fragment xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:map="http://schemas.android.com/apk/res-auto"
